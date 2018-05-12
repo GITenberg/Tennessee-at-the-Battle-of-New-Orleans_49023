@@ -1,10 +1,16 @@
 _repo: Tennessee-at-the-Battle-of-New-Orleans_49023
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49023-h/images/cover.jpg
 creator:
   author:
     agent_name: Watson, Elbert L.
     gutenberg_agent_id: '45096'
     url: http://www.gutenberg.org/2009/agents/45096
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49023#Tennessee-at-the-Battle-of-New-Orleans
 gutenberg_issued: '2015-05-22'
 gutenberg_type: Text
 identifiers:
